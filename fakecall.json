@@ -1,0 +1,48 @@
+{
+    "data" : [
+        {
+          
+            "network": "max",
+            
+            "max_ban": "e4fff88af878959e",
+            "max_int": "6f4d7f189479f379",
+            
+            "is_app_key": "154b0d031",
+            "is_ban": "DefaultBanner",
+            "is_int": "DefaultInterstitial",
+            
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+
+            "name": "Siren Head",
+            "photo": "https://i.postimg.cc/J43p5cTZ/unnamed.png",
+            "voice": "https://ringy9.github.io/Siren-Head/audio1.mp3",
+            "video": "https://ringy9.github.io/Siren-Head/video1.mp4",
+            "stories": [
+                "https://i.postimg.cc/fRZgGg38/25f9d55cee44ef75a67e3f91e9dde6df.jpg",
+"https://i.postimg.cc/YC3yMfYM/5003c158fb6cf5cee5b4c76d96873911.jpg",
+"https://i.postimg.cc/s2gHXQ4S/727ee316b14a0d0afa168d00b377f78a.jpg",
+"https://i.postimg.cc/1RqCfZwW/aa2818a1893b61d033002709fde2c866.jpg",
+"https://i.postimg.cc/ZR1wVftF/b20a191fbbb22a6c3788362ed51e4e5b.jpg",
+"https://i.postimg.cc/XqdQhwnM/dc1a189bb8f8b3ea9f0622e7244ae18d.jpg",
+"https://i.postimg.cc/J4CTXdQR/ddx8mia-cfa178ae-b157-46d6-8ae0-94b49de58655.jpg",
+"https://i.postimg.cc/SK1TzSgP/e415bd55429656b37e7b98004a52647f.jpg",
+"https://i.postimg.cc/KzK9P6V8/maxresdefault.jpg",
+"https://i.postimg.cc/J43p5cTZ/unnamed.png"
+            ],
+            "wallpapers": [
+              "https://i.postimg.cc/fRZgGg38/25f9d55cee44ef75a67e3f91e9dde6df.jpg",
+"https://i.postimg.cc/YC3yMfYM/5003c158fb6cf5cee5b4c76d96873911.jpg",
+"https://i.postimg.cc/s2gHXQ4S/727ee316b14a0d0afa168d00b377f78a.jpg",
+"https://i.postimg.cc/1RqCfZwW/aa2818a1893b61d033002709fde2c866.jpg",
+"https://i.postimg.cc/ZR1wVftF/b20a191fbbb22a6c3788362ed51e4e5b.jpg",
+"https://i.postimg.cc/XqdQhwnM/dc1a189bb8f8b3ea9f0622e7244ae18d.jpg",
+"https://i.postimg.cc/J4CTXdQR/ddx8mia-cfa178ae-b157-46d6-8ae0-94b49de58655.jpg",
+"https://i.postimg.cc/SK1TzSgP/e415bd55429656b37e7b98004a52647f.jpg",
+"https://i.postimg.cc/KzK9P6V8/maxresdefault.jpg",
+"https://i.postimg.cc/J43p5cTZ/unnamed.png"
+            ]
+          
+        }
+    ]
+}
